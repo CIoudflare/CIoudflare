@@ -1,0 +1,22 @@
+:root {
+    --font-primary: var(--customFont) ,"Open Sans";
+    --font-display: var(--customFont) ,"Open Sans";
+}
+::placeholder, body, button, input, select, textarea{
+    font-family: var(--customFont) !important;
+}
+/*
+     FILE ARCHIVED BY CHERRY, ORIGINAL FROM LIMESHARK'S BETTERDISCORD THEME EDITOR
+*/
+/*
+playback timings (ms):
+  captures_list: 91.66
+  exclusion.robots: 0.069
+  exclusion.robots.policy: 0.059
+  cdx.remote: 0.058
+  esindex: 0.008
+  LoadShardBlock: 60.937 (3)
+  PetaboxLoader3.datanode: 73.498 (4)
+  load_resource: 63.294
+  PetaboxLoader3.resolve: 47.499
+*/
